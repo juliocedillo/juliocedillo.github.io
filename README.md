@@ -1,5 +1,3 @@
-# Julio Adrián Cedillo
-
 ### Education
 University of California, Berkeley
 - B.A. Sociology, Concentration in Sociological Research Methods
