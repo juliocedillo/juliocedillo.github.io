@@ -5,25 +5,25 @@
 - A.A. in Social & Behavioral Sciences, San Diego City College, 2023
 
 ## Research Experience
-- **Fall 2024: Faculty-Mentored Undergraduate Research Fellow**
+**Fall 2024: Faculty-Mentored Undergraduate Research Fellow**
   - Latinx Research Center, UC Berkeley
-  - Principle Investigator: Armando Lara-Millán, PhD
+    - Principle Investigator: Armando Lara-Millán, PhD
  
-- **Spring 2024: Miller Scholar**
+**Spring 2024: Miller Scholar**
   - Miller Scholars Program, UC Berkeley
-  - Advisors: Edwin Lin, PhD & Julio Salas
+    - Advisors: Edwin Lin, PhD & Julio Salas
 
- - **Spring 2023: Independent Researcher**
-    - Department of Sociology, San Diego City College
-    - Advisor: Sarah M. Pitcher, PhD
-   
-- **Fall 2023: Independent Researcher**
-  - Department of Sociology, San Diego City College
+**Spring 2023: Independent Researcher**
+- Department of Sociology, San Diego City College
   - Advisor: Sarah M. Pitcher, PhD
-  - Department of Sociology, San Diego Miramar College
+   
+**Fall 2023: Independent Researcher**
+- Department of Sociology, San Diego City College
+  - Advisor: Sarah M. Pitcher, PhD
+- Department of Sociology, San Diego Miramar College
   - Advisor: Laura Pecenco, PhD
  
 **Spring 2022: Student Researcher**
-  - Department of Sociology, San Diego City College
+- Department of Sociology, San Diego City College
   - Advisor: Marilyn Espitia, PhD
     
