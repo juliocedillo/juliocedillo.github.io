@@ -3,3 +3,13 @@ logo: github.png
 description: Sociology Student at UC Berkeley
 #show_downloads: true
 theme: jekyll-theme-minimal
+email: "julio.cedillo@berkeley.edu"
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "Research Experience"
+    url: "/research"
+  - title: "CV"
+    url: "/CV"
+social:
+  linkedin: "https://www.linkedin.com/in/jcedi/"
