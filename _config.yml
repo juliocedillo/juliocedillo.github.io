@@ -3,7 +3,8 @@ logo: github.png
 description: Sociology Student at UC Berkeley
 #show_downloads: true
 theme: jekyll-theme-minimal
-email: "julio.cedillo@berkeley.edu"
+url: "https://www.example.com"
+baseurl: ""
 nav:
   - title: "Home"
     url: "/"
@@ -13,3 +14,4 @@ nav:
     url: "/CV"
 social:
   linkedin: "https://www.linkedin.com/in/jcedi/"
+email: "julio.cedillo@berkeley.edu"
