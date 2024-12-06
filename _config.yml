@@ -3,8 +3,8 @@ logo: github.png
 description: Sociology Student at UC Berkeley
 #show_downloads: true
 theme: jekyll-theme-minimal
-url: "juliocedillo.github.io"
-baseurl: ""
+#url: "juliocedillo.github.io"
+#baseurl: ""
 nav:
   - title: "Home"
     url: "/"
