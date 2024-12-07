@@ -5,14 +5,14 @@ description: Sociology Student at UC Berkeley
 theme: jekyll-theme-minimal
 #url: "juliocedillo.github.io"
 #baseurl: ""
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "Research Experience"
-    url: "/research"
-  - title: "CV"
-    url: "/CV"
+#nav:
+#  - title: "Home"
+   # url: "/"
+#  - title: "Research Experience"
+#    url: "/research"
+#  - title: "CV"
+#    url: "/CV"
 location: "Univeristy of California, Berkeley"
-social:
-  linkedin: "https://www.linkedin.com/in/jcedi/"
-email: "julio.cedillo@berkeley.edu"
+#social:
+#linkedin: "https://www.linkedin.com/in/jcedi/"
+#email: "julio.cedillo@berkeley.edu"
