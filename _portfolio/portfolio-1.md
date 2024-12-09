@@ -30,9 +30,6 @@ collection: portfolio
 - CHIC 170: La Chicana
 - CHIC 230: Chicano Art
 
-![UC Berkeley Seal](berkeleyseal.svg)
-![San Diego City College Logo](sdcc.png)
-
 ### University of California, Berkeley
 ###### Sociology
 - SOCIOL 5: Evaluation of Evidence
