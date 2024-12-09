@@ -3,6 +3,7 @@ title: "Courses Taken"
 excerpt: "Courses taken in my academic career"
 collection: portfolio
 ---
+<img src="berkeleyseal.png" alt="My Image">
 
 ### San Diego City College
 ###### Sociology
