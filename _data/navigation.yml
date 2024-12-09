@@ -6,15 +6,15 @@
 
 main:
   - title: "CV"
-    url: /files/Academic CV.pdf
+    url: /cv/
 
 #  - title: "Courses"
     url: /courses/    
 
-#  - title: "Portfolio"
+  - title: "Portfolio"
     url: /portfolio/    
     
-  - title: "Portfolio"
+ # - title: "Portfolio"
     url: /portfolio/
         
 #  - title: "Blog Posts"
