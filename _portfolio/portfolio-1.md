@@ -3,7 +3,8 @@ title: "Courses Taken"
 excerpt: "Courses taken in my academic career"
 collection: portfolio
 ---
-<img src="berkeleyseal.png" alt="My Image">
+
+(sdcc.png)
 
 ### San Diego City College
 ###### Sociology
@@ -31,6 +32,8 @@ collection: portfolio
 - CHIC 141B: U.S. History from a Chicano Perspective II
 - CHIC 170: La Chicana
 - CHIC 230: Chicano Art
+
+(/images/berkeleyseal.svg)
 
 ### University of California, Berkeley
 ###### Sociology
