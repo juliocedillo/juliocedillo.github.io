@@ -3,9 +3,6 @@ title: "Courses Taken"
 excerpt: "Courses taken in my academic career"
 collection: portfolio
 ---
-
-(sdcc.png)
-
 ### San Diego City College
 ###### Sociology
 - SOCO 101: Principles of Sociology
@@ -33,7 +30,7 @@ collection: portfolio
 - CHIC 170: La Chicana
 - CHIC 230: Chicano Art
 
-(/images/berkeleyseal.svg)
+![UC Berkeley Seal](/images/berkeleyseal.svg)
 
 ### University of California, Berkeley
 ###### Sociology
