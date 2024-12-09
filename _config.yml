@@ -21,7 +21,7 @@ repository               : "juliocedillo.github.io/academic"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"profile.png"
+  avatar           : "github.png"
   name             : "Julio Adrián Cedillo"
   pronouns         : "he/him"  
   bio              : "Fourth-year sociology student & Prospective PhD student"
