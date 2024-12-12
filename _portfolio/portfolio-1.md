@@ -1,45 +1,6 @@
 ---
-title: "Courses Taken"
-excerpt: "Courses taken in my academic career"
+title: "The Weaponization of Latinidad: Exclusion from Latinx Student Associations and the Future of
+Panethnicity"
+excerpt: "Latino is an ambiguous term with no set concrete definition, allowing multiple definitions to run rampant. Scholars continuously run into the complexity of measuring race in Latinos due to its label as an ethnicity. Because of this lack of classification, this label groups many individuals with differing backgrounds, phenotypic characteristics, and experiences. Scholars note that race cannot be reduced to other subcategories or components such as class or ethnicity. Several studies based on race describe racial formation as a socio-historical process by which identities are then constructed, lived out, transformed, and destroyed. Latino students narrow ethnic boundaries in organizations and compete with fellow organizations. Ethnic boundaries are byproducts of the social structure the individual is placed in and have the agency when to deploy and police these boundaries. While there has been substantial research analyzing student perceptions of Latinidad, fewer studies have looked at Latino minority subgroups such as the Caribbean subregion and indigenous identities that reside in Latin America. In addition, clubs that seek to empower these communities are often left out of Latinx research and provide important perspectives to see how Latinidad is perceived by these subgroups. Therefore, this study provides an overview of how Latinx student organizations interpret Latinidad accounting for the vast subregional identities it surrounds, and compares their interpretation of Latinismo. Due to its ambiguous definition, student organizations operate differently and execute different exclusion and inclusion strategies for the sake of their corresponding members."
 collection: portfolio
 ---
-### San Diego City College
-###### Sociology
-- SOCO 101: Principles of Sociology
-- SOCO 110: Contemporary Social Problems
-- SOCO 125: Sociology of the Family
-- SOCO 145: Health & Society (Honors)
-- SOCO 150: Latina/o Sociology
-- SOCO 201: Advanced Principles of Sociology (Honors)
-- SOCO 220: Introduction to Research Methods in Sociology
-- SOCO 223: Globalization & Social Change (Honors)
-
-###### Anthropology
-- ANTH 103: Introduction to Cultural Anthropology
-
-###### Psychology
-- PSYC 101: Introduction to Psychology
-- PSYC 166: Introduction to Social Psychology
-- PSYC 258: Behavioral Science Statistics
-
-###### Chicana/o Studies
-- CHIC 110A: Introduction to Chicana and Chicano Studies
-- CHIC 135: Chicana/o Literature
-- CHIC 141A: U.S. History from a Chicano Perspective I
-- CHIC 141B: U.S. History from a Chicano Perspective II
-- CHIC 170: La Chicana
-- CHIC 230: Chicano Art
-
-### University of California, Berkeley
-###### Sociology
-- SOCIOL 5: Evaluation of Evidence
-- SOCIOL 101: Sociological Theory I (Classical)
-- SOCIOL 102: Sociological Theory II (Contemporary)
-- SOCIOL 106: Quantitative Sociological Methods
-- _SOCIOL 108: Advanced Methods: In-Depth Interviewing (Planned)_
-- SOCIOL 115G: Health in a Global Society
-- SOCIOL 120: Economy & Society
-- _SOCIOL C144L: Latina/o/x Sociology (Planned)_
-
-###### Political Economy
-- _POLECON 100: Classical Theories of Political Economy (Planned)_
