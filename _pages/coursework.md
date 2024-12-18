@@ -7,7 +7,7 @@ author_profile: true
 
 Selected coursework during my undergraduate career. Courses in progress are noted with an asterisk.
 
-<img src="https://juliocedillo.github.io/images/berkeleyseal.svg">
+<img src="https://juliocedillo.github.io/images/ucbseal.png">
 
 # University of California, Berkeley
 ##### Sociology
@@ -25,6 +25,8 @@ Selected coursework during my undergraduate career. Courses in progress are note
 * `POLECON 100:` Classical Theories of Political Economy*
 
 ---
+
+<img src="https://juliocedillo.github.io/images/sdccseal.png">
 
 # San Diego City College
 ##### Sociology
