@@ -8,11 +8,11 @@ main:
   - title: "CV"
     url: /files/academic_cv.pdf
 
+- title: "About"
+    url: /aboutme/
+    
   - title: "Research"
     url: /research/
-
-  - title: "About"
-    url: /aboutme/
 
   - title: "Coursework"
     url: /coursework/
