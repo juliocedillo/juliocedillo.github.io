@@ -7,6 +7,8 @@ author_profile: true
 
 Selected coursework during my undergraduate career. Courses in progress are noted with an asterisk.
 
+<img src="https://github.com/juliocedillo/juliocedillo.github.io/images/berkeleyseal.svg">
+
 # University of California, Berkeley
 ##### Sociology
 * `SOCIOL 5:` Evaluation of Evidence
