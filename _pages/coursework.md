@@ -39,7 +39,7 @@ Selected coursework during my undergraduate career. Courses in progress are note
 * `SOCO 220:` Introduction to Research Methods in Sociology
 * `SOCO 223:` Globalization & Social Change (Honors)
 
-### Chicana/o Studies
+#### Chicana/o Studies
 * `CHIC 110A:` Introduction to Chicano Studies I
 * `CHIC 135:` Chicano Literature
 * `CHIC 141A:` United States History from a Chicano Perspective I
