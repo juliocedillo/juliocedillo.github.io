@@ -1,6 +1,6 @@
 ---
 title: "The Firm that Predicted the Future and the Birth of a New Global Economy"
-excerpt: "I'm a research apprentice under Professor Lara-Millán in the Latinx Research Center's _Faculty-Mentored Undergraduate Research Fellowship_. Click here for more details.
+excerpt: I'm currently working as a research apprentice under Professor Lara-Millán, click here for more information.
 collection: portfolio
 ---
 
