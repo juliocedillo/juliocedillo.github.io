@@ -7,9 +7,9 @@ author_profile: true
 
 Selected coursework during my undergraduate career. Courses in progress are noted with an asterisk.
 
-<img src="https://juliocedillo.github.io/images/ucbseal.png">
+| <img src="https://juliocedillo.github.io/images/ucbseal.png" width="50px"> | University of California, Berkeley|
+|---|---|
 
-# University of California, Berkeley
 ##### Sociology
 * `SOCIOL 5:` Evaluation of Evidence
 * `SOCIOL 101:` Sociological Theory I (_Classical Social Theory_)
@@ -26,9 +26,9 @@ Selected coursework during my undergraduate career. Courses in progress are note
 
 ---
 
-<img src="https://juliocedillo.github.io/images/sdccseal.png">
+| <img src="https://juliocedillo.github.io/images/sdccseal.png" width="50px"> | San Diego City College |
+|---|---|
 
-# San Diego City College
 ##### Sociology
 * `SOCO 101:` Principles of Sociology
 * `SOCO 110:` Contemporary Social Problems
