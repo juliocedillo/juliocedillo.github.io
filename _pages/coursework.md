@@ -7,8 +7,9 @@ author_profile: true
 
 Selected coursework during my undergraduate career. Courses in progress are noted with an asterisk.
 
-| <img src="https://juliocedillo.github.io/images/ucbseal.png" width="50px"> | University of California, Berkeley|
-|---|---|
+<img src="https://juliocedillo.github.io/images/ucbseal.png" width="50px">
+
+### University of California, Berkeley
 
 ##### Sociology
 * `SOCIOL 5:` Evaluation of Evidence
@@ -21,13 +22,12 @@ Selected coursework during my undergraduate career. Courses in progress are note
 * `SOCIOL 137AC:` Environmental Justice: Race, Class, Equity, and the Environment
 * `SOCIOL C144L:` Latina/o/x Sociology*
 
-##### Political Economy
-* `POLECON 100:` Classical Theories of Political Economy*
 
 ---
 
-| <img src="https://juliocedillo.github.io/images/sdccseal.png" width="50px"> | San Diego City College |
-|---|---|
+<img src="https://juliocedillo.github.io/images/sdccseal.png" width="50px">
+
+### San Diego City College
 
 ##### Sociology
 * `SOCO 101:` Principles of Sociology
