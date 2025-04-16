@@ -23,7 +23,7 @@ Selected coursework during my undergraduate career. Courses in progress are note
 * `SOCIOL C144L:` Latina/o/x Sociology*
 
 ##### Statistics
-* `STAT 133:` Concepts in Computing with Data
+* `STAT 133:` Concepts in Computing with Data*
 ---
 
 <img src="https://juliocedillo.github.io/images/sdccseal.png" width="50px">
