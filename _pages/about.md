@@ -6,6 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a fourth-year undergraduate student in the Department of Sociology at the University of California, Berkeley advised by Michael Rodríguez-Muñiz. My research focuses on Latinos and legal consciousness through militarization, conservative voter engagement, and the politics of recognition.
+I am a sociologist conducting research on the relationship between Latino identity, politics, and military service. I'm currently working on a pilot study titled _Militarizing Latinos: National Identity and Belonging in the United States_ supervised and taught by Dr. Laura J. Enríquez in Sociology 108: Advanced Methods: In-Depth Interviewing.
 
-I am supported by the Miller Scholars Program and the UC Berkeley Latinx Research Center's Faculty-Mentored Undergraduate Research Fellowships. Before Berkeley, I studied Sociology & Chicano Studies at San Diego City College, where I was mentored by Marilyn Espitia and Sarah Pitcher.
+I'm a fourth-year undergraduate transfer student in the Department of Sociology at the University of California, Berkeley. I am supported by the George A. Miller Scholars Program and the Robert and Colleen Haas Scholars Program. Before Berkeley, I studied Sociology & Chicano Studies at San Diego City College, where I was mentored by Marilyn Espitia and Sarah Pitcher. You can find me in the UC Berkeley Transfer Student Center working with Miller Scholars and helping incoming transfer students.
