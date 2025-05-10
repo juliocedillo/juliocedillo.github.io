@@ -24,6 +24,7 @@ Selected coursework during my undergraduate career. Courses in progress are note
 
 ##### Statistics
 * `STAT 133:` Concepts in Computing with Data*
+
 ---
 
 <img src="https://juliocedillo.github.io/images/sdccseal.png" width="50px">
