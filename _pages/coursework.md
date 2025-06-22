@@ -16,14 +16,17 @@ Selected coursework during my undergraduate career. Courses in progress are note
 * `SOCIOL 101:` Sociological Theory I (_Classical Social Theory_)
 * `SOCIOL 102:` Sociological Theory II (_Contemporary Social Theory_)
 * `SOCIOL 106:` Quantitative Sociological Methods
-* `SOCIOL 108:` Advanced Methods: In-Depth Interviewing*
+* `SOCIOL 108:` Advanced Methods: In-Depth Interviewing
 * `SOCIOL 115G:` Health in a Global Society
 * `SOCIOL 120:` Economy & Society
 * `SOCIOL 137AC:` Environmental Justice: Race, Class, Equity, and the Environment
-* `SOCIOL C144L:` Latina/o/x Sociology*
+* `SOCIOL C144L:` Latina/o/x Sociology
+* `SOCIOL 166:` Society & Technology
+* `SOCIOL 190.1:` US-Mexico Borderlands Sociology*
 
-##### Statistics
-* `STAT 133:` Concepts in Computing with Data*
+##### Chicanx Latinx Studies
+* `CHICANO 159:` Mexican Immigration*
+
 
 ---
 
