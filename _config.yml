@@ -22,7 +22,7 @@ logo                     : "/image/berkeleyseal.png"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "githubprofile.png"
+  avatar           : "images/Julio.png"
   name             : "Julio Adrián Cedillo"
   pronouns         : "he/him"  
   bio              : "Fourth-year sociology student & Prospective PhD student"
