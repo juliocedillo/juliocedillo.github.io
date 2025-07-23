@@ -6,6 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a sociologist conducting research on the relationship between Latino identity, politics, and military service. I'm currently working on a pilot study titled _Militarizing Latinos: National Identity and Belonging in the United States_ supervised and taught by Dr. Laura J. Enríquez in Sociology 108: Advanced Methods: In-Depth Interviewing.
+Julio Cedillo is a BA candidate in Sociology at the University of California, Berkeley. His research investigates how political identity is shaped through military service among Latinos, exploring how martial citizenship leads to belonging in the United States among minorities.
 
-I'm a fourth-year undergraduate transfer student in the Department of Sociology at the University of California, Berkeley. I am supported by the George A. Miller Scholars Program and the Robert and Colleen Haas Scholars Program. Before Berkeley, I studied Sociology & Chicano Studies at San Diego City College, where I was mentored by Marilyn Espitia and Sarah Pitcher. You can find me in the UC Berkeley Transfer Student Center working with Miller Scholars and helping incoming transfer students.
+Before beginning his BA, Julio earned an AA-T in Sociology and an AA in Chicana/o Studies from San Diego City College. Beyond his academic pursuits, Julio is an active participant in facilitating academic transitions among California community college students at UC Berkeley. He revived the long inactive Latinx Sociological Association with other students, and now provides fellowship among Latinx sociology students and explores issues in the field of sociology.
