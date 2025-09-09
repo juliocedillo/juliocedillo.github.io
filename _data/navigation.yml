@@ -11,8 +11,8 @@ main:
   - title: "About"
     url: /aboutme/
     
-  - title: "Research"
-    url: /research/
+  - title: "Projects"
+    url: /projects/
 
   - title: "Coursework"
     url: /coursework/
