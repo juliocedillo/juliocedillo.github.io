@@ -5,6 +5,9 @@ permalink: /projects/
 author_profile: true
 ---
 
+## Supporting Bay Area Immigrant Families through Community-Engaged Research and Practice
+### Undergraduate Research Assistant | Principal Investigator: Stephanie Canizales, Ph.D.
+
 ## [The Return of the Real Economy](https://juliocedillo.github.io/neweconomy)
 ### Undergraduate Research Lead | Principal Investigator: Armando Lara-Millán, Ph.D.
 I'm currently working under Professor Lara-Millán in the Faculty-Mentored Undergraduate Research Fellowship offered by the Latinx Research Center. I'm leading two fellow undergraduates in the data-cleaning process and curating a database on economic actors. 
