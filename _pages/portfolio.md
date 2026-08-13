@@ -5,13 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-## Supporting Bay Area Immigrant Families through Community-Engaged Research and Practice
-### Undergraduate Research Assistant | Principal Investigator: Stephanie Canizales, Ph.D.
+## Going Rogue: Latino Political Attitudes and Racial Boundaries in a Non-Partisan Military
 
-## [The Return of the Real Economy](https://juliocedillo.github.io/neweconomy)
-### Undergraduate Research Lead | Principal Investigator: Armando Lara-Millán, Ph.D.
-I'm currently working under Professor Lara-Millán in the Faculty-Mentored Undergraduate Research Fellowship offered by the Latinx Research Center. I'm leading two fellow undergraduates in the data-cleaning process and curating a database on economic actors. 
-
-## [Going Rogue: The Military and the Rise of the Right Latino](https://juliocedillo.github.io/military)
-### Undergraduate Research Fellow | Advisor: Michael Rodríguez-Muñiz, Ph.D.
-My ongoing thesis project was made possible by the Haas Scholars Program. I am researching the effect of military service on Latino identity, political engagement, and citizenship among Latino soldiers. I coded this website for interested participants for information on the procedure.
+## False Promises: Military Service, the Promise of Family Unity, and Immigration Insecurity, 2002-2026
