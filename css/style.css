@@ -622,3 +622,105 @@ main {
         margin-bottom: 35px;
     }
 }
+
+/* =========================
+   PROJECTS PAGE
+   ========================= */
+
+.projects-page {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 110px 5vw 140px;
+}
+
+.projects-page h1 {
+    font-size: clamp(4rem, 8vw, 7rem);
+    font-weight: 400;
+    letter-spacing: -0.05em;
+    line-height: 0.95;
+    margin: 20px 0 30px;
+}
+
+.projects-intro {
+    max-width: 600px;
+    font-size: 1.1rem;
+    line-height: 1.7;
+    margin-bottom: 90px;
+}
+
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 70px 45px;
+}
+
+.project-card {
+    display: block;
+    color: inherit;
+    text-decoration: none;
+}
+
+.project-image {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    overflow: hidden;
+}
+
+.project-image img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.project-info {
+    padding-top: 20px;
+}
+
+.project-info h2 {
+    font-size: 1.5rem;
+    font-weight: 400;
+    letter-spacing: -0.02em;
+    margin: 0 0 7px;
+}
+
+.project-info h3 {
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 0 0 10px;
+    max-width: 600px;
+}
+
+.project-info p {
+    font-size: 0.85rem;
+    line-height: 1.5;
+    margin: 0;
+    opacity: 0.6;
+}
+
+
+/* =========================
+   MOBILE
+   ========================= */
+
+@media (max-width: 800px) {
+
+    .projects-page {
+        padding: 80px 6vw 100px;
+    }
+
+    .projects-page h1 {
+        font-size: clamp(3.5rem, 14vw, 5rem);
+    }
+
+    .projects-intro {
+        margin-bottom: 60px;
+    }
+
+    .projects-grid {
+        grid-template-columns: 1fr;
+        gap: 60px;
+    }
+
+}
