@@ -4,6 +4,10 @@
 
 const genealogy = {
 
+    /* =========================================
+       Original Lineage
+       ========================================= */
+
     giddings: {
         name: "Franklin Henry Giddings",
         role: "Sociologist",
@@ -59,7 +63,7 @@ const genealogy = {
     portes: {
         name: "Alejandro Portes",
         role: "Sociologist",
-        institution: "Johns Hopkins Univerisity",
+        institution: "Johns Hopkins University",
         relationship: "Academic Lineage",
         generation: 2,
         areas: [
@@ -82,6 +86,11 @@ const genealogy = {
             "Du Boisian Sociology"
         ]
     },
+
+
+    /* =========================================
+       José's Two Mentorship Branches
+       ========================================= */
 
     "rodriguez-muniz": {
         name: "Michael Rodríguez-Muñiz",
@@ -111,6 +120,69 @@ const genealogy = {
         ]
     },
 
+
+    /* =========================================
+       Second Lineage
+       ========================================= */
+
+    ogles: {
+        name: "Richard Ogles",
+        role: "Sociologist",
+        institution: "Academic Lineage",
+        relationship: "Academic Lineage",
+        generation: 4,
+        areas: [
+            "Sociology"
+        ]
+    },
+
+    "william-julius-wilson": {
+        name: "William Julius Wilson",
+        role: "Sociologist",
+        institution: "Harvard University",
+        relationship: "Academic Lineage",
+        generation: 3,
+        areas: [
+            "Urban Sociology",
+            "Race & Ethnicity",
+            "Social Stratification",
+            "Poverty"
+        ]
+    },
+
+    "pattillo": {
+        name: "Mary Pattillo",
+        role: "Sociologist",
+        institution: "Northwestern University",
+        relationship: "Academic Lineage",
+        generation: 2,
+        areas: [
+            "Race & Ethnicity",
+            "Urban Sociology",
+            "Housing",
+            "Social Inequality"
+        ]
+    },
+
+    "lara-millan": {
+        name: "Armando Lara-Millán",
+        role: "Sociologist",
+        institution: "University of California, Berkeley",
+        relationship: "Mentor",
+        generation: 0,
+        areas: [
+            "Urban Sociology",
+            "Race & Ethnicity",
+            "Political Sociology",
+            "Social Inequality"
+        ]
+    },
+
+
+    /* =========================================
+       Current Scholar
+       ========================================= */
+
     julio: {
         name: "Julio Cedillo",
         role: "Sociologist",
@@ -132,9 +204,11 @@ const genealogy = {
 
 /* =========================================
    Academic Relationships
-========================================= */
+   ========================================= */
 
 const relationships = [
+
+    /* Original lineage */
 
     ["giddings", "chapin"],
     ["chapin", "sewell"],
@@ -142,13 +216,25 @@ const relationships = [
     ["haller", "portes"],
     ["portes", "itzigsohn"],
 
-    // José's two branches
+    /* José's two branches */
+
     ["itzigsohn", "rodriguez-muniz"],
     ["itzigsohn", "hammer"],
 
-    // Both branches lead to Julio
+    /* Both original branches lead to Julio */
+
     ["rodriguez-muniz", "julio"],
-    ["hammer", "julio"]
+    ["hammer", "julio"],
+
+
+    /* =========================================
+       Second lineage
+       ========================================= */
+
+    ["ogles", "william-julius-wilson"],
+    ["william-julius-wilson", "pattillo"],
+    ["pattillo", "lara-millan"],
+    ["lara-millan", "julio"]
 
 ];
 
@@ -170,9 +256,7 @@ function initializeGenealogy() {
     }
 
 
-    /*
-     * Clear anything already inside
-     */
+    /* Clear anything already inside */
 
     container.innerHTML = "";
 
@@ -184,29 +268,32 @@ function initializeGenealogy() {
         container.clientHeight;
 
 
-    /*
-     * Create SVG
-     */
+    /* =========================================
+       Create SVG
+       ========================================= */
 
     const svg =
         d3.select(container)
             .append("svg")
             .attr("width", width)
             .attr("height", height)
-            .attr("viewBox", `0 0 ${width} ${height}`);
+            .attr(
+                "viewBox",
+                `0 0 ${width} ${height}`
+            );
 
 
-    /*
-     * Main zoom container
-     */
+    /* =========================================
+       Main zoom container
+       ========================================= */
 
     const network =
         svg.append("g");
 
 
-    /*
-     * Zoom / Pan
-     */
+    /* =========================================
+       Zoom / Pan
+       ========================================= */
 
     const zoom =
         d3.zoom()
@@ -293,7 +380,10 @@ function initializeGenealogy() {
 
     nodes
         .append("circle")
-        .attr("class", "person-circle")
+        .attr(
+            "class",
+            "person-circle"
+        )
         .attr(
             "r",
             d => {
@@ -477,6 +567,111 @@ function initializeGenealogy() {
                 "tick",
                 ticked
             );
+
+
+    /* =========================================
+       Clean Two-Lineage Layout
+       ========================================= */
+
+    const layoutPositions = {
+
+        /* -----------------------------------------
+           Original lineage
+           ----------------------------------------- */
+
+        giddings: {
+            x: width * 0.25,
+            y: height * 0.16
+        },
+
+        chapin: {
+            x: width * 0.25,
+            y: height * 0.27
+        },
+
+        sewell: {
+            x: width * 0.25,
+            y: height * 0.38
+        },
+
+        haller: {
+            x: width * 0.25,
+            y: height * 0.49
+        },
+
+        portes: {
+            x: width * 0.25,
+            y: height * 0.60
+        },
+
+        itzigsohn: {
+            x: width * 0.25,
+            y: height * 0.71
+        },
+
+        "rodriguez-muniz": {
+            x: width * 0.15,
+            y: height * 0.84
+        },
+
+        hammer: {
+            x: width * 0.35,
+            y: height * 0.84
+        },
+
+
+        /* -----------------------------------------
+           Second lineage
+           ----------------------------------------- */
+
+        ogles: {
+            x: width * 0.75,
+            y: height * 0.16
+        },
+
+        "william-julius-wilson": {
+            x: width * 0.75,
+            y: height * 0.32
+        },
+
+        pattillo: {
+            x: width * 0.75,
+            y: height * 0.48
+        },
+
+        "lara-millan": {
+            x: width * 0.75,
+            y: height * 0.64
+        },
+
+
+        /* -----------------------------------------
+           Shared endpoint
+           ----------------------------------------- */
+
+        julio: {
+            x: width * 0.50,
+            y: height * 0.91
+        }
+
+    };
+
+
+    /* Give the simulation initial positions */
+
+    nodeData.forEach(d => {
+
+        const position =
+            layoutPositions[d.id];
+
+        if (position) {
+
+            d.x = position.x;
+            d.y = position.y;
+
+        }
+
+    });
 
 
     /* =========================================
